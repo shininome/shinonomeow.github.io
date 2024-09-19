@@ -1,0 +1,45 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "東雲研究所",
+    "home_page_url": "https://shinonomoew.top",
+    "feed_url": "https://shinonomoew.top/feed.json",
+    "description": "天空又矮又圆，大地又平又方。一下跳进宇宙深空，一下钻进大陆背面。普伦西它拿着铁棒，到处敲打恶棍流氓。喵喵！",
+    "items": [
+        {
+            "id": "https://shinonomoew.top/speak/18a35f/",
+            "url": "https://shinonomoew.top/speak/18a35f/",
+            "title": "闲来无事",
+            "summary": "我要双语博客~",
+            "date_modified": "2024-04-22T21:41:28.000Z"
+        },
+        {
+            "id": "https://shinonomoew.top/dev/fee1c4/",
+            "url": "https://shinonomoew.top/dev/fee1c4/",
+            "title": "acme",
+            "summary": "自动续签ssl,上天保佑一定要有用呀",
+            "image": "https://gcore.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/tools/dev/01-1-acme-noroot.png",
+            "date_modified": "2024-04-23T22:02:40.000Z"
+        },
+        {
+            "id": "https://shinonomoew.top/sys/7df827/",
+            "url": "https://shinonomoew.top/sys/7df827/",
+            "title": "ngxin",
+            "summary": "我要双语博客~",
+            "date_modified": "2024-04-22T22:02:51.000Z"
+        },
+        {
+            "id": "https://shinonomoew.top/sys/f70e1a/",
+            "url": "https://shinonomoew.top/sys/f70e1a/",
+            "title": "docker",
+            "summary": "以前一直是内网访问, 很少考虑外网访问的安全性问题, 最近开始弄服务器之后才发现这么多问题, iptables 是一个很好的工具, 可以阻止很多奇怪的访问, 但是也被docker透烂了, 会加一些奇怪的规则, 导致可以直接ip:端口号访问, 让我措手不及. 现在弄到了两种解决的办法",
+            "date_modified": "2024-04-24T20:31:59.000Z"
+        },
+        {
+            "id": "https://shinonomoew.top/learn/d2l/471b4f/",
+            "url": "https://shinonomoew.top/learn/d2l/471b4f/",
+            "title": "循环神经网络",
+            "summary": "开始了文本方向的神经网络，之前的卷积看完还是很不知所云的， 对于为什么这样会更好还是只有一个大概的解释，估计文本这方面也不遑多让吧。\nI have started learing language Models, but I'm still confused after studying Convolutional Neural Networks. The explanations provided are quite vague, and I suspect Language Models might be just as challenging as CNNs",
+            "date_modified": "2024-04-25T09:51:03.000Z"
+        }
+    ]
+}
