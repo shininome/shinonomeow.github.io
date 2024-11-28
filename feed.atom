@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shinonomoew.top</id>
+    <title>東雲研究所</title>
+    <updated>2024-11-28T05:35:02.754Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://shinonomoew.top"/>
+    <link rel="self" href="https://shinonomoew.top/feed.atom"/>
+    <subtitle>天空又矮又圆，大地又平又方。一下跳进宇宙深空，一下钻进大陆背面。普伦西它拿着铁棒，到处敲打恶棍流氓。喵喵！</subtitle>
+    <entry>
+        <title type="html"><![CDATA[闲来无事]]></title>
+        <id>https://shinonomoew.top/speak/18a35f/</id>
+        <link href="https://shinonomoew.top/speak/18a35f/">
+        </link>
+        <updated>2024-04-22T21:41:28.000Z</updated>
+        <summary type="html"><![CDATA[我要双语博客~]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[acme]]></title>
+        <id>https://shinonomoew.top/dev/fee1c4/</id>
+        <link href="https://shinonomoew.top/dev/fee1c4/">
+        </link>
+        <updated>2024-04-23T22:02:40.000Z</updated>
+        <summary type="html"><![CDATA[自动续签ssl,上天保佑一定要有用呀]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ngxin]]></title>
+        <id>https://shinonomoew.top/sys/7df827/</id>
+        <link href="https://shinonomoew.top/sys/7df827/">
+        </link>
+        <updated>2024-04-22T22:02:51.000Z</updated>
+        <summary type="html"><![CDATA[我要双语博客~]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docker]]></title>
+        <id>https://shinonomoew.top/sys/f70e1a/</id>
+        <link href="https://shinonomoew.top/sys/f70e1a/">
+        </link>
+        <updated>2024-04-24T20:31:59.000Z</updated>
+        <summary type="html"><![CDATA[以前一直是内网访问, 很少考虑外网访问的安全性问题, 最近开始弄服务器之后才发现这么多问题, iptables 是一个很好的工具, 可以阻止很多奇怪的访问, 但是也被docker透烂了, 会加一些奇怪的规则, 导致可以直接ip:端口号访问, 让我措手不及. 现在弄到了两种解决的办法]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[循环神经网络]]></title>
+        <id>https://shinonomoew.top/learn/d2l/471b4f/</id>
+        <link href="https://shinonomoew.top/learn/d2l/471b4f/">
+        </link>
+        <updated>2024-04-25T09:51:03.000Z</updated>
+        <summary type="html"><![CDATA[开始了文本方向的神经网络，之前的卷积看完还是很不知所云的， 对于为什么这样会更好还是只有一个大概的解释，估计文本这方面也不遑多让吧。
+I have started learing language Models, but I'm still confused after studying Convolutional Neural Networks. The explanations provided are quite vague, and I suspect Language Models might be just as challenging as CNNs]]></summary>
+    </entry>
+</feed>
